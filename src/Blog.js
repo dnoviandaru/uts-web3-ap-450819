@@ -43,12 +43,7 @@ class Blog extends React.Component {
   }
 
   componentDidMount() {
-    fetch('/api/blog', {
-        headers : { 
-          'Content-Type': 'application/json',
-          'Accept': 'application/json'
-        }
-      })
+    fetch("/api/blog")
       .then(res => res.json())
       .then(json =>
         this.setState({

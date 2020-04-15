@@ -29,12 +29,7 @@ class DetailBlog extends React.Component {
 
   componentDidMount() {
     const { articleId } = this.props.match.params;
-    fetch("/api/blog/" + articleId, {
-        headers : { 
-          'Content-Type': 'application/json',
-          'Accept': 'application/json'
-        }
-      })
+    fetch("/api/blog/" + articleId)
       .then(res => res.json())
       .then(json =>
         this.setState({
