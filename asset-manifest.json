@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dnoviandaru/uts-web3-ap-450819/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/dnoviandaru/uts-web3-ap-450819/static/js/main.fcac4885.chunk.js",
+    "main.js.map": "/dnoviandaru/uts-web3-ap-450819/static/js/main.fcac4885.chunk.js.map",
+    "runtime-main.js": "/dnoviandaru/uts-web3-ap-450819/static/js/runtime-main.5f300b2d.js",
+    "runtime-main.js.map": "/dnoviandaru/uts-web3-ap-450819/static/js/runtime-main.5f300b2d.js.map",
+    "static/css/2.69121389.chunk.css": "/dnoviandaru/uts-web3-ap-450819/static/css/2.69121389.chunk.css",
+    "static/js/2.b6c3a545.chunk.js": "/dnoviandaru/uts-web3-ap-450819/static/js/2.b6c3a545.chunk.js",
+    "static/js/2.b6c3a545.chunk.js.map": "/dnoviandaru/uts-web3-ap-450819/static/js/2.b6c3a545.chunk.js.map",
+    "index.html": "/dnoviandaru/uts-web3-ap-450819/index.html",
+    "precache-manifest.4ceccad1629936e0b6999570d1531996.js": "/dnoviandaru/uts-web3-ap-450819/precache-manifest.4ceccad1629936e0b6999570d1531996.js",
+    "service-worker.js": "/dnoviandaru/uts-web3-ap-450819/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/dnoviandaru/uts-web3-ap-450819/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/dnoviandaru/uts-web3-ap-450819/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b6c3a545.chunk.js.LICENSE.txt": "/dnoviandaru/uts-web3-ap-450819/static/js/2.b6c3a545.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f300b2d.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.b6c3a545.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fcac4885.chunk.js"
+  ]
+}
